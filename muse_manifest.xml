@@ -1,0 +1,487 @@
+<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="spark186@myseneca.ca" resolutions="1x" timestamp="1554320086930">
+  <folder name="css">
+    <file name="site_global.css" crc="444006867"/>
+    <file name="master_master.css" crc="108031785" ref="neighbourhood:amenities:contact:gallery:index:floorplan"/>
+    <file name="neighbourhood.css" crc="3938724671" ref="neighbourhood"/>
+    <file name="amenities.css" crc="4069245283" ref="amenities"/>
+    <file name="contact.css" crc="390041232" ref="contact"/>
+    <file name="gallery.css" crc="3895179009" ref="gallery"/>
+    <file name="index.css" crc="4095445080" ref="index"/>
+    <file name="floorplan.css" crc="3805789315" ref="floorplan"/>
+  </folder>
+  <folder name="assets">
+    <file name="gym-3.jpg" crc="98489519" seo="true" mt="1550877079000"/>
+    <file name="gym-1.jpg" crc="146226912" seo="true" mt="1550877076000"/>
+    <file name="rand-condo-brochure.pdf" crc="4224289195" seo="true" mt="1552847758000"/>
+    <file name="rand-condo-brochure2.pdf" crc="463894894" seo="true" mt="1554156877000"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:neighbourhood:amenities:floorplan:contact:gallery"/>
+    <file name="museutils.js" crc="340535759" ref="index:neighbourhood:amenities:floorplan:contact:gallery"/>
+    <file name="whatinput.js" crc="86476730" ref="index:neighbourhood:amenities:floorplan:contact:gallery"/>
+    <file name="museconfig.js" crc="4286661555" ref="index:neighbourhood:amenities:floorplan:contact:gallery"/>
+    <file name="jquery.musemenu.js" crc="510910590" ref="index:neighbourhood:amenities:floorplan:contact:gallery"/>
+    <file name="jquery.watch.js" crc="51536988" ref="index:neighbourhood:amenities:floorplan:contact:gallery"/>
+    <file name="webpro.js" crc="4059564322" ref="index:neighbourhood:amenities:floorplan:contact:gallery"/>
+    <file name="musewpslideshow.js" crc="3862962738" ref="index:neighbourhood:amenities:floorplan:gallery"/>
+    <file name="jquery.museoverlay.js" crc="4147669564" ref="index:neighbourhood:amenities:floorplan:gallery"/>
+    <file name="touchswipe.js" crc="4075097462" ref="index:neighbourhood:amenities:floorplan:gallery"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index:neighbourhood:amenities:floorplan:contact:gallery"/>
+    <file name="require.js" crc="7928878" ref="index:neighbourhood:amenities:floorplan:contact:gallery"/>
+    <file name="form_check.php" crc="4020933626" ref="contact"/>
+    <file name="form_throttle.php" crc="4259590256" ref="contact"/>
+    <file name="form_process.php" crc="37464564" ref="contact"/>
+    <file name="form-u3232.php" crc="242355954" ref="contact"/>
+  </folder>
+  <folder name="images">
+    <file name="rand logo black.jpg" crc="3838210118" seo="true" ref="index:neighbourhood:amenities:floorplan:contact:gallery">
+      <caption webpage="index" alt=""/>
+      <caption webpage="neighbourhood" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="gallery" alt=""/>
+      <caption webpage="amenities" alt=""/>
+      <caption webpage="floorplan" alt=""/>
+    </file>
+    <file name="blank.gif" crc="4208392903" ref="index:neighbourhood:amenities:floorplan:contact:gallery"/>
+    <file name="u7802.png" crc="4284520015" ref="index:neighbourhood:amenities:floorplan:contact:gallery"/>
+    <file name="u7802-a.png" crc="358753916" ref="index:neighbourhood:amenities:floorplan:contact:gallery"/>
+    <file name="u7813.png" crc="3775531156" ref="index:neighbourhood:amenities:floorplan:contact:gallery"/>
+    <file name="u7813-a.png" crc="57324873" ref="index:neighbourhood:amenities:floorplan:contact:gallery"/>
+    <file name="u7847.png" crc="4259495966" ref="index:neighbourhood:amenities:floorplan:contact:gallery"/>
+    <file name="u7847-a.png" crc="420646289" ref="index:neighbourhood:amenities:floorplan:contact:gallery"/>
+    <file name="u7869.png" crc="4032760477" ref="index:neighbourhood:amenities:floorplan:contact:gallery"/>
+    <file name="u7869-a.png" crc="3781413453" ref="index:neighbourhood:amenities:floorplan:contact:gallery"/>
+    <file name="u7890.png" crc="432172957" ref="index:neighbourhood:amenities:floorplan:contact:gallery"/>
+    <file name="u7890-a.png" crc="4145134185" ref="index:neighbourhood:amenities:floorplan:contact:gallery"/>
+    <file name="u7910.png" crc="4241906412" ref="index:neighbourhood:amenities:floorplan:contact:gallery"/>
+    <file name="u7910-a.png" crc="45957404" ref="index:neighbourhood:amenities:floorplan:contact:gallery"/>
+    <file name="1117 queen west-crop-u2978.jpg" crc="4225357077" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="yingchou-han-241463-unsplash.jpg" crc="4198974416" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="garin-chadwick-1285230-unsplash.jpg" crc="4214510919" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="loading.gif" crc="3815509949" ref="index:neighbourhood:amenities:floorplan:gallery"/>
+    <file name="u318-4.png" crc="4162081661" ref="index"/>
+    <file name="terrace 5-crop-u3003.jpg" crc="4257831576" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u3923-6.png" crc="357050194" ref="index"/>
+    <file name="terrace 6-crop-u3005.jpg" crc="166725834" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u325-4.png" crc="4139437058" ref="index"/>
+    <file name="grey kitchen.jpg" crc="3828181120" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="nirzar-pangarkar-85499-unsplash.jpg" crc="71269202" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="grey livingroom-crop-u3981.jpg" crc="444487728" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u7574-7.png" crc="443367035" ref="index"/>
+    <file name="u2547-4.png" crc="4285115016" ref="index"/>
+    <file name="iconfinder_facebook_194929.png" crc="531159650" seo="true" ref="index:neighbourhood:amenities:floorplan:contact:gallery">
+      <caption webpage="index" alt=""/>
+      <caption webpage="neighbourhood" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="gallery" alt=""/>
+      <caption webpage="amenities" alt=""/>
+      <caption webpage="floorplan" alt=""/>
+    </file>
+    <file name="iconfinder_intsagram_194923.png" crc="334732776" seo="true" ref="index:neighbourhood:amenities:floorplan:contact:gallery">
+      <caption webpage="index" alt=""/>
+      <caption webpage="neighbourhood" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="gallery" alt=""/>
+      <caption webpage="amenities" alt=""/>
+      <caption webpage="floorplan" alt=""/>
+    </file>
+    <file name="iconfinder_linkedin_194920.png" crc="3906921594" seo="true" ref="index:neighbourhood:amenities:floorplan:contact:gallery">
+      <caption webpage="index" alt=""/>
+      <caption webpage="neighbourhood" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="gallery" alt=""/>
+      <caption webpage="amenities" alt=""/>
+      <caption webpage="floorplan" alt=""/>
+    </file>
+    <file name="iconfinder_twitter_194909.png" crc="196856734" seo="true" ref="index:neighbourhood:amenities:floorplan:contact:gallery">
+      <caption webpage="index" alt=""/>
+      <caption webpage="neighbourhood" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="gallery" alt=""/>
+      <caption webpage="amenities" alt=""/>
+      <caption webpage="floorplan" alt=""/>
+    </file>
+    <file name="u4278-4.png" crc="118720630" ref="index:neighbourhood:amenities:floorplan:contact:gallery"/>
+    <file name="apex logo.png" crc="456743351" seo="true" ref="index:neighbourhood:amenities:floorplan:contact:gallery">
+      <caption webpage="index" alt=""/>
+      <caption webpage="neighbourhood" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="gallery" alt=""/>
+      <caption webpage="amenities" alt=""/>
+      <caption webpage="floorplan" alt=""/>
+    </file>
+    <file name="u3430_states.png" crc="201614828" ref="index:neighbourhood:amenities:floorplan:contact:gallery"/>
+    <file name="u3430_states-r.png" crc="4173342286" ref="index:neighbourhood:amenities:floorplan:contact:gallery"/>
+    <file name="u1535-4.png" crc="4015258784" ref="neighbourhood"/>
+    <file name="pexels-photo-590516.jpg" crc="4256301819" seo="true" ref="neighbourhood">
+      <caption webpage="neighbourhood" alt=""/>
+    </file>
+    <file name="clark-street-mercantile-33932-unsplash.jpg" crc="3981391020" seo="true" ref="neighbourhood">
+      <caption webpage="neighbourhood" alt=""/>
+    </file>
+    <file name="u2264-4.png" crc="517927148" ref="neighbourhood"/>
+    <file name="joel-mott-1315248-unsplash330x492.jpg" crc="202660423" seo="true" ref="neighbourhood">
+      <caption webpage="neighbourhood" alt=""/>
+    </file>
+    <file name="u1024-7.png" crc="100207981" ref="neighbourhood"/>
+    <file name="joel-mott-1315252-unsplash325x485.jpg" crc="12977545" seo="true" ref="neighbourhood">
+      <caption webpage="neighbourhood" alt=""/>
+    </file>
+    <file name="u1025-4.png" crc="215482621" ref="neighbourhood"/>
+    <file name="johny-vino-769188-unsplash-crop-u1796.jpg" crc="421266411" seo="true" ref="neighbourhood">
+      <caption webpage="neighbourhood" alt=""/>
+    </file>
+    <file name="mohammad-faruque-197300-unsplash-crop-u2276.jpg" crc="3817893657" seo="true" ref="neighbourhood">
+      <caption webpage="neighbourhood" alt=""/>
+    </file>
+    <file name="u1755-4.png" crc="4242502070" ref="neighbourhood"/>
+    <file name="johny-vino-769188-unsplash-crop-u1460.jpg" crc="3847996315" seo="true" ref="neighbourhood">
+      <caption webpage="neighbourhood" alt=""/>
+    </file>
+    <file name="mohammad-faruque-197300-unsplash-crop-u1569.jpg" crc="4056081434" seo="true" ref="neighbourhood">
+      <caption webpage="neighbourhood" alt=""/>
+    </file>
+    <file name="khoman-room-567303-unsplash-crop-u1597.jpg" crc="117934744" seo="true" ref="neighbourhood">
+      <caption webpage="neighbourhood" alt=""/>
+    </file>
+    <file name="johny-vino-769188-unsplash-crop-u1434.jpg" crc="4007881005" seo="true" ref="neighbourhood">
+      <caption webpage="neighbourhood" alt=""/>
+    </file>
+    <file name="mohammad-faruque-197300-unsplash-crop-u1575.jpg" crc="3967759977" seo="true" ref="neighbourhood">
+      <caption webpage="neighbourhood" alt=""/>
+    </file>
+    <file name="khoman-room-567303-unsplash-crop-u1603.jpg" crc="4078256512" seo="true" ref="neighbourhood">
+      <caption webpage="neighbourhood" alt=""/>
+    </file>
+    <file name="lobby 3-crop-u2295.jpg" crc="4083316404" seo="true" ref="amenities">
+      <caption webpage="amenities" alt=""/>
+    </file>
+    <file name="lobby 1-crop-u4702.jpg" crc="393222208" seo="true" ref="amenities">
+      <caption webpage="amenities" alt=""/>
+    </file>
+    <file name="u2316-4.png" crc="347717996" ref="amenities"/>
+    <file name="u2314-4.png" crc="358359663" ref="amenities"/>
+    <file name="fikri-rasyid-1230745-unsplash-crop-u2322.jpg" crc="306635428" seo="true" ref="amenities">
+      <caption webpage="amenities" alt=""/>
+    </file>
+    <file name="josh-wilburne-140523-unsplash-crop-u2320.jpg" crc="397456568" seo="true" ref="amenities">
+      <caption webpage="amenities" alt=""/>
+    </file>
+    <file name="u2317-4.png" crc="3852476510" ref="amenities"/>
+    <file name="rooftop.jpg" crc="3966117035" seo="true" ref="amenities">
+      <caption webpage="amenities" alt=""/>
+    </file>
+    <file name="terrace-crop-u4743.jpg" crc="3769052862" seo="true" ref="amenities">
+      <caption webpage="amenities" alt=""/>
+    </file>
+    <file name="maddi-bazzocco-1176157-unsplash.jpg" crc="4293409361" seo="true" ref="amenities">
+      <caption webpage="amenities" alt=""/>
+    </file>
+    <file name="u2318-4.png" crc="4292207851" ref="amenities"/>
+    <file name="hallway.jpg" crc="3816154530" seo="true" ref="floorplan">
+      <caption webpage="floorplan" alt=""/>
+    </file>
+    <file name="jean-philippe-delberghe-1056488-unsplash.jpg" crc="28330336" seo="true" ref="floorplan">
+      <caption webpage="floorplan" alt=""/>
+    </file>
+    <file name="john-cameron-771879-unsplash.jpg" crc="4002583349" seo="true" ref="floorplan">
+      <caption webpage="floorplan" alt=""/>
+    </file>
+    <file name="u2606-4.png" crc="3798145825" ref="floorplan"/>
+    <file name="u2753-4.png" crc="497156365" ref="floorplan"/>
+    <file name="u2562-4.png" crc="4129549009" ref="floorplan"/>
+    <file name="u2565-4.png" crc="4183214017" ref="floorplan"/>
+    <file name="2bed_keyplan.png" crc="3973476533" seo="true" ref="floorplan">
+      <caption webpage="floorplan" alt=""/>
+    </file>
+    <file name="2 bedroom.png" crc="226165747" seo="true" ref="floorplan">
+      <caption webpage="floorplan" alt=""/>
+    </file>
+    <file name="3_bedroom.png" crc="505235116" seo="true" ref="floorplan">
+      <caption webpage="floorplan" alt=""/>
+    </file>
+    <file name="u2759-4.png" crc="214633832" ref="floorplan"/>
+    <file name="u2568-4.png" crc="4183402712" ref="floorplan"/>
+    <file name="u2571-4.png" crc="277458644" ref="floorplan"/>
+    <file name="3bed_key plan.png" crc="4210117333" seo="true" ref="floorplan">
+      <caption webpage="floorplan" alt=""/>
+    </file>
+    <file name="u7570-4.png" crc="4202919034" ref="contact"/>
+    <file name="beer-machine-alcohol-brewery-159291.jpg" crc="238913136" seo="true" ref="gallery">
+      <caption webpage="gallery" alt=""/>
+    </file>
+    <file name="pexels-photo-97815.jpg" crc="4007203784" seo="true" ref="gallery">
+      <caption webpage="gallery" alt=""/>
+    </file>
+    <file name="pexels-photo-696218.jpg" crc="186081456" seo="true" ref="gallery">
+      <caption webpage="gallery" alt=""/>
+    </file>
+    <file name="u7403-4.png" crc="4115626881" ref="gallery"/>
+    <file name="u5334-4.png" crc="3888976365" ref="gallery"/>
+    <file name="terrace 5-crop-u6622.jpg" crc="175893429" seo="true" ref="gallery">
+      <caption webpage="gallery" alt=""/>
+    </file>
+    <file name="terrace 160x45.jpg" crc="4065904417" seo="true" ref="gallery">
+      <caption webpage="gallery" alt=""/>
+    </file>
+    <file name="terrace 3-crop-u7095.jpg" crc="4060646601" seo="true" ref="gallery">
+      <caption webpage="gallery" alt=""/>
+    </file>
+    <file name="terrace 6-crop-u7035.jpg" crc="257112688" seo="true" ref="gallery">
+      <caption webpage="gallery" alt=""/>
+    </file>
+    <file name="terrace 2-crop-u7075.jpg" crc="343767763" seo="true" ref="gallery">
+      <caption webpage="gallery" alt=""/>
+    </file>
+    <file name="terrace 4-crop-u7115.jpg" crc="497874794" seo="true" ref="gallery">
+      <caption webpage="gallery" alt=""/>
+    </file>
+    <file name="terrace 5-crop-u6628.jpg" crc="3808643003" seo="true" ref="gallery">
+      <caption webpage="gallery" alt=""/>
+    </file>
+    <file name="terrace 6-crop-u7029.jpg" crc="78089636" seo="true" ref="gallery">
+      <caption webpage="gallery" alt=""/>
+    </file>
+    <file name="terrace 1-crop-u7049.jpg" crc="3822991496" seo="true" ref="gallery">
+      <caption webpage="gallery" alt=""/>
+    </file>
+    <file name="terrace 2-crop-u7069.jpg" crc="4099739790" seo="true" ref="gallery">
+      <caption webpage="gallery" alt=""/>
+    </file>
+    <file name="terrace 3-crop-u7089.jpg" crc="3981407594" seo="true" ref="gallery">
+      <caption webpage="gallery" alt=""/>
+    </file>
+    <file name="terrace 4-crop-u7109.jpg" crc="3905781338" seo="true" ref="gallery">
+      <caption webpage="gallery" alt=""/>
+    </file>
+    <file name="u5340-4.png" crc="3795984479" ref="gallery"/>
+    <file name="clark-street-mercantile-33932-unsplash-crop-u7198.jpg" crc="4221698877" seo="true" ref="gallery">
+      <caption webpage="gallery" alt=""/>
+    </file>
+    <file name="mohammad-faruque-197300-unsplash-crop-u7326.jpg" crc="3967759977" seo="true" ref="gallery">
+      <caption webpage="gallery" alt=""/>
+    </file>
+    <file name="building-vehicle-motorbike-motorcycle-crop-u6873.jpg" crc="3763208090" seo="true" ref="gallery">
+      <caption webpage="gallery" alt=""/>
+    </file>
+    <file name="pexels-photo-135620-crop-u6913.jpg" crc="3952733756" seo="true" ref="gallery">
+      <caption webpage="gallery" alt=""/>
+    </file>
+    <file name="pexels-photo-769153-crop-u6971.jpg" crc="4154407235" seo="true" ref="gallery">
+      <caption webpage="gallery" alt=""/>
+    </file>
+    <file name="joel-mott-1315248-unsplash-crop-u7246.jpg" crc="3892826053" seo="true" ref="gallery">
+      <caption webpage="gallery" alt=""/>
+    </file>
+    <file name="johny-vino-769188-unsplash-crop-u7286.jpg" crc="4007881005" seo="true" ref="gallery">
+      <caption webpage="gallery" alt=""/>
+    </file>
+    <file name="alexander-popov-522100-unsplash-crop-u7158.jpg" crc="4169138092" seo="true" ref="gallery">
+      <caption webpage="gallery" alt=""/>
+    </file>
+    <file name="beer-machine-alcohol-brewery-159291-crop-u6531.jpg" crc="507006082" seo="true" ref="gallery">
+      <caption webpage="gallery" alt=""/>
+    </file>
+    <file name="pexels-photo-12312-crop-u6893.jpg" crc="360653863" seo="true" ref="gallery">
+      <caption webpage="gallery" alt=""/>
+    </file>
+    <file name="pexels-photo-763834-crop-u6951.jpg" crc="4247859711" seo="true" ref="gallery">
+      <caption webpage="gallery" alt=""/>
+    </file>
+    <file name="clark-street-mercantile-33931-unsplash-crop-u7178.jpg" crc="4182700433" seo="true" ref="gallery">
+      <caption webpage="gallery" alt=""/>
+    </file>
+    <file name="joel-mott-1315252-unsplash-crop-u7266.jpg" crc="116120765" seo="true" ref="gallery">
+      <caption webpage="gallery" alt=""/>
+    </file>
+    <file name="leighann-renee-601778-unsplash-crop-u7306.jpg" crc="3846378190" seo="true" ref="gallery">
+      <caption webpage="gallery" alt=""/>
+    </file>
+    <file name="clark-street-mercantile-33932-unsplash-crop-u7192.jpg" crc="134265350" seo="true" ref="gallery">
+      <caption webpage="gallery" alt=""/>
+    </file>
+    <file name="alexander-popov-522100-unsplash-crop-u7152.jpg" crc="3861531852" seo="true" ref="gallery">
+      <caption webpage="gallery" alt=""/>
+    </file>
+    <file name="mohammad-faruque-197300-unsplash-crop-u7320.jpg" crc="4240994517" seo="true" ref="gallery">
+      <caption webpage="gallery" alt=""/>
+    </file>
+    <file name="beer-machine-alcohol-brewery-159291-crop-u6533.jpg" crc="389779186" seo="true" ref="gallery">
+      <caption webpage="gallery" alt=""/>
+    </file>
+    <file name="building-vehicle-motorbike-motorcycle-crop-u6867.jpg" crc="465317269" seo="true" ref="gallery">
+      <caption webpage="gallery" alt=""/>
+    </file>
+    <file name="pexels-photo-12312-crop-u6887.jpg" crc="364356632" seo="true" ref="gallery">
+      <caption webpage="gallery" alt=""/>
+    </file>
+    <file name="pexels-photo-135620-crop-u6907.jpg" crc="3957899325" seo="true" ref="gallery">
+      <caption webpage="gallery" alt=""/>
+    </file>
+    <file name="pexels-photo-763834-crop-u6945.jpg" crc="486201776" seo="true" ref="gallery">
+      <caption webpage="gallery" alt=""/>
+    </file>
+    <file name="pexels-photo-769153-crop-u6965.jpg" crc="426037357" seo="true" ref="gallery">
+      <caption webpage="gallery" alt=""/>
+    </file>
+    <file name="clark-street-mercantile-33931-unsplash-crop-u7172.jpg" crc="4250709814" seo="true" ref="gallery">
+      <caption webpage="gallery" alt=""/>
+    </file>
+    <file name="joel-mott-1315248-unsplash-crop-u7240.jpg" crc="107520397" seo="true" ref="gallery">
+      <caption webpage="gallery" alt=""/>
+    </file>
+    <file name="joel-mott-1315252-unsplash-crop-u7260.jpg" crc="479370473" seo="true" ref="gallery">
+      <caption webpage="gallery" alt=""/>
+    </file>
+    <file name="johny-vino-769188-unsplash-crop-u7280.jpg" crc="5648079" seo="true" ref="gallery">
+      <caption webpage="gallery" alt=""/>
+    </file>
+    <file name="leighann-renee-601778-unsplash-crop-u7300.jpg" crc="494864585" seo="true" ref="gallery">
+      <caption webpage="gallery" alt=""/>
+    </file>
+    <file name="u5346-4.png" crc="3805790434" ref="gallery"/>
+    <file name="terrace 6-crop-u6298.jpg" crc="257112688" seo="true" ref="gallery">
+      <caption webpage="gallery" alt=""/>
+    </file>
+    <file name="lobby 1-crop-u6722.jpg" crc="3956398084" seo="true" ref="gallery">
+      <caption webpage="gallery" alt=""/>
+    </file>
+    <file name="terrace 5-crop-u6762.jpg" crc="175893429" seo="true" ref="gallery">
+      <caption webpage="gallery" alt=""/>
+    </file>
+    <file name="gym 1-crop-u6819.jpg" crc="98197423" seo="true" ref="gallery">
+      <caption webpage="gallery" alt=""/>
+    </file>
+    <file name="gym 4-crop-u6702.jpg" crc="4172939304" seo="true" ref="gallery">
+      <caption webpage="gallery" alt=""/>
+    </file>
+    <file name="lobby 3-crop-u6742.jpg" crc="4002922249" seo="true" ref="gallery">
+      <caption webpage="gallery" alt=""/>
+    </file>
+    <file name="lobby 2-crop-u6791.jpg" crc="450317563" seo="true" ref="gallery">
+      <caption webpage="gallery" alt=""/>
+    </file>
+    <file name="terrace 6-crop-u6242.jpg" crc="78089636" seo="true" ref="gallery">
+      <caption webpage="gallery" alt=""/>
+    </file>
+    <file name="gym 4-crop-u6696.jpg" crc="304780199" seo="true" ref="gallery">
+      <caption webpage="gallery" alt=""/>
+    </file>
+    <file name="lobby 1-crop-u6716.jpg" crc="4014554438" seo="true" ref="gallery">
+      <caption webpage="gallery" alt=""/>
+    </file>
+    <file name="lobby 3-crop-u6736.jpg" crc="465982948" seo="true" ref="gallery">
+      <caption webpage="gallery" alt=""/>
+    </file>
+    <file name="terrace 5-crop-u6756.jpg" crc="3808643003" seo="true" ref="gallery">
+      <caption webpage="gallery" alt=""/>
+    </file>
+    <file name="lobby 2-crop-u6785.jpg" crc="265348442" seo="true" ref="gallery">
+      <caption webpage="gallery" alt=""/>
+    </file>
+    <file name="gym 1-crop-u6813.jpg" crc="3763840385" seo="true" ref="gallery">
+      <caption webpage="gallery" alt=""/>
+    </file>
+    <file name="u5352-4.png" crc="378976265" ref="gallery"/>
+    <file name="john-cameron-771879-unsplash60x45.jpg" crc="4262980816" seo="true" ref="gallery">
+      <caption webpage="gallery" alt=""/>
+    </file>
+    <file name="kirill-630681-unsplash-crop-u5648.jpg" crc="4200597287" seo="true" ref="gallery">
+      <caption webpage="gallery" alt=""/>
+    </file>
+    <file name="nastuh-abootalebi-284882-unsplash-crop-u5704.jpg" crc="123586834" seo="true" ref="gallery">
+      <caption webpage="gallery" alt=""/>
+    </file>
+    <file name="interior-crop-u5764.jpg" crc="97088321" seo="true" ref="gallery">
+      <caption webpage="gallery" alt=""/>
+    </file>
+    <file name="jason-briscoe-332508-unsplash-crop-u5841.jpg" crc="3789493139" seo="true" ref="gallery">
+      <caption webpage="gallery" alt=""/>
+    </file>
+    <file name="jason-briscoe-152940-unsplash-crop-u5897.jpg" crc="3835267617" seo="true" ref="gallery">
+      <caption webpage="gallery" alt=""/>
+    </file>
+    <file name="daniil-silantev-574958-unsplash-crop-u5952.jpg" crc="228751891" seo="true" ref="gallery">
+      <caption webpage="gallery" alt=""/>
+    </file>
+    <file name="jean-philippe-delberghe-1056488-unsplash-crop-u5620.jpg" crc="4071617318" seo="true" ref="gallery">
+      <caption webpage="gallery" alt=""/>
+    </file>
+    <file name="naomi-hebert-188443-unsplash-crop-u5676.jpg" crc="4092974980" seo="true" ref="gallery">
+      <caption webpage="gallery" alt=""/>
+    </file>
+    <file name="nirzar-pangarkar-85499-unsplash-crop-u5729.jpg" crc="91972939" seo="true" ref="gallery">
+      <caption webpage="gallery" alt=""/>
+    </file>
+    <file name="avery-klein-750175-unsplash-crop-u5813.jpg" crc="3798649906" seo="true" ref="gallery">
+      <caption webpage="gallery" alt=""/>
+    </file>
+    <file name="jason-briscoe-332507-unsplash-crop-u5869.jpg" crc="4006404090" seo="true" ref="gallery">
+      <caption webpage="gallery" alt=""/>
+    </file>
+    <file name="interior7-crop-u5932.jpg" crc="10265151" seo="true" ref="gallery">
+      <caption webpage="gallery" alt=""/>
+    </file>
+    <file name="john-cameron-771879-unsplash-crop-u5384.jpg" crc="219030224" seo="true" ref="gallery">
+      <caption webpage="gallery" alt=""/>
+    </file>
+    <file name="jean-philippe-delberghe-1056488-unsplash-crop-u5614.jpg" crc="376625782" seo="true" ref="gallery">
+      <caption webpage="gallery" alt=""/>
+    </file>
+    <file name="kirill-630681-unsplash-crop-u5642.jpg" crc="101057907" seo="true" ref="gallery">
+      <caption webpage="gallery" alt=""/>
+    </file>
+    <file name="naomi-hebert-188443-unsplash-crop-u5670.jpg" crc="3858588228" seo="true" ref="gallery">
+      <caption webpage="gallery" alt=""/>
+    </file>
+    <file name="nastuh-abootalebi-284882-unsplash-crop-u5698.jpg" crc="3938687346" seo="true" ref="gallery">
+      <caption webpage="gallery" alt=""/>
+    </file>
+    <file name="nirzar-pangarkar-85499-unsplash-crop-u5723.jpg" crc="4065619260" seo="true" ref="gallery">
+      <caption webpage="gallery" alt=""/>
+    </file>
+    <file name="interior-crop-u5758.jpg" crc="3818560317" seo="true" ref="gallery">
+      <caption webpage="gallery" alt=""/>
+    </file>
+    <file name="avery-klein-750175-unsplash-crop-u5807.jpg" crc="193466597" seo="true" ref="gallery">
+      <caption webpage="gallery" alt=""/>
+    </file>
+    <file name="jason-briscoe-332508-unsplash-crop-u5835.jpg" crc="66250450" seo="true" ref="gallery">
+      <caption webpage="gallery" alt=""/>
+    </file>
+    <file name="jason-briscoe-332507-unsplash-crop-u5863.jpg" crc="356766012" seo="true" ref="gallery">
+      <caption webpage="gallery" alt=""/>
+    </file>
+    <file name="jason-briscoe-152940-unsplash-crop-u5891.jpg" crc="4232499098" seo="true" ref="gallery">
+      <caption webpage="gallery" alt=""/>
+    </file>
+    <file name="interior7-crop-u5926.jpg" crc="4095258189" seo="true" ref="gallery">
+      <caption webpage="gallery" alt=""/>
+    </file>
+    <file name="daniil-silantev-574958-unsplash-crop-u5946.jpg" crc="4155652133" seo="true" ref="gallery">
+      <caption webpage="gallery" alt=""/>
+    </file>
+  </folder>
+  <file name="index.html" crc="91082747" seo="true" mt="1554319620805" redirect="true"/>
+  <file name="neighbourhood.html" crc="95617066" seo="true" mt="1554319620809" redirect="true"/>
+  <file name="amenities.html" crc="12605000" seo="true" mt="1554319620805" redirect="true"/>
+  <file name="floorplan.html" crc="299398301" seo="true" mt="1554319620805" redirect="true"/>
+  <file name="contact.html" crc="23556706" seo="true" mt="1554319620805" redirect="true"/>
+  <file name="gallery.html" crc="3967727354" seo="true" mt="1554319620805" redirect="true"/>
+</manifest>
